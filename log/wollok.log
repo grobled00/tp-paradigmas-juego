@@ -94,3 +94,5 @@
 {"level":"info","message":"⌛ Building environment","timeElapsed":116,"timestamp":"2026-09-07T00:22:43.169Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mjuego.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34md:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego\u001b[39m\u001b[23m","ok":true,"timeElapsed":845,"timestamp":"2026-09-07T00:22:56.371Z"}
 {"exitCode":"SIGINT","level":"info","message":"👾 Game executed juego.juego on d:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego","timeElapsed":128495,"timestamp":"2026-09-07T00:25:04.020Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":102,"timestamp":"2026-09-07T00:25:12.737Z"}
+{"level":"info","message":"⌛ Validating juego.wpgm","timeElapsed":290,"timestamp":"2026-09-07T00:25:13.036Z"}
