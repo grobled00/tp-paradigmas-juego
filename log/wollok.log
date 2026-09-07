@@ -85,3 +85,12 @@
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed juego.juego on c:\\Users\\gasto\\Documents\\Algoritmos VScode\\PdP\\Wollok\\tp-paradigmas-juego","timeElapsed":38971,"timestamp":"2026-09-06T23:51:08.967Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mjuego.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\gasto\\Documents\\Algoritmos VScode\\PdP\\Wollok\\tp-paradigmas-juego\u001b[39m\u001b[23m","ok":true,"timeElapsed":320,"timestamp":"2026-09-06T23:51:11.532Z"}
 {"exitCode":"SIGINT","level":"info","message":"👾 Game executed juego.juego on c:\\Users\\gasto\\Documents\\Algoritmos VScode\\PdP\\Wollok\\tp-paradigmas-juego","timeElapsed":135064,"timestamp":"2026-09-06T23:53:26.275Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":139,"timestamp":"2026-09-06T23:55:37.095Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":104,"timestamp":"2026-09-06T23:55:37.203Z"}
+{"level":"info","message":"⌛ Validating juego.wpgm","timeElapsed":175,"timestamp":"2026-09-06T23:55:37.382Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":112,"timestamp":"2026-09-06T23:55:37.653Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mjuego.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34md:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego\u001b[39m\u001b[23m","ok":true,"timeElapsed":1435,"timestamp":"2026-09-06T23:57:05.375Z"}
+{"exitCode":"SIGINT","level":"info","message":"👾 Game executed juego.juego on d:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego","timeElapsed":377577,"timestamp":"2026-09-07T00:03:21.489Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":116,"timestamp":"2026-09-07T00:22:43.169Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mjuego.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34md:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego\u001b[39m\u001b[23m","ok":true,"timeElapsed":845,"timestamp":"2026-09-07T00:22:56.371Z"}
+{"exitCode":"SIGINT","level":"info","message":"👾 Game executed juego.juego on d:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego","timeElapsed":128495,"timestamp":"2026-09-07T00:25:04.020Z"}
