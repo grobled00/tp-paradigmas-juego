@@ -41,7 +41,7 @@ object alfilNegroDerecho {
 object caballoNegroDerecho{
     var property position = game.at(6,0)
 
-    method image() = "negro-caballo.png" 
+    method image() = "negro-caballo50.png" 
 }
 
 object torreNegroDerecho {
@@ -52,51 +52,51 @@ object torreNegroDerecho {
 }
 
 object peonNegro0 {
-    var property position = game.at(1,1) 
+    var property position = game.at(0,1) 
 
-    method image() = "negro-peon.png"
+    method image() = "negro-peon50.png"
 }
 
 object peonNegro1 {
-    var property position = game.at(1,2)
+    var property position = game.at(1,1)
 
-    method image() = "negro-peon.png" 
+    method image() = "negro-peon50.png"
 }
 
 object peonNegro2 {
-    var property position = game.at(1,3)
+    var property position = game.at(2,1)
 
-    method image() = "negro-peon.png" 
+    method image() = "negro-peon50.png" 
 }
 
 object peonNegro3 {
-    var property position = game.at(1,4)
+    var property position = game.at(3,1)
 
-    method image() = "negro-peon.png" 
+    method image() = "negro-peon50.png" 
 }
 
 object peonNegro4 {
-    var property position = game.at(1,5)
+    var property position = game.at(4,1)
 
-    method image() = "negro-peon.png" 
+    method image() = "negro-peon50.png" 
 }
 
 object peonNegro5 {
-    var property position = game.at(1,6)
+    var property position = game.at(5,1)
 
-    method image() = "negro-peon.png" 
+    method image() = "negro-peon50.png" 
 }
 
 object peonNegro6 {
-    var property position = game.at(1,7)
+    var property position = game.at(6,1)
 
-    method image() = "negro-peon.png" 
+    method image() = "negro-peon50.png" 
 }
 
 object peonNegro7 {
-    var property position = game.at(1,8)
+    var property position = game.at(7,1)
 
-    method image() = "negro-peon.png" 
+    method image() = "negro-peon50.png" 
 }
 
 //--------------------------------------------------------------------------------------------------------
@@ -105,7 +105,12 @@ object peonNegro7 {
 
 object torreBlancoIzquierdo {
     var property position = game.at(0, 7)
-
+// method moverA(nuevaPosicion) {
+    //     if (self.esMovimientoValido(nuevaPosicion)) {
+      //       position = nuevaPosicion
+     //    } else {
+        //     self.error("")
+    //     }
     method image() = "blanco-torre50.png"
 }
 
