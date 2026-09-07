@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import wollok.game.*
 
 program juego {
@@ -17,3 +18,24 @@ program juego {
 
 
 
+=======
+import wollok.game.*
+
+program juego {
+
+    game.width(8)
+    game.height(8)
+    game.cellSize(50)
+    game.title("Ajedrez")
+    game.boardGround("tablero4.png")
+    
+
+  game.start()
+}
+
+
+
+
+
+
+>>>>>>> e7c5ec331a56b4cdec877f5abda90203e27701c8
