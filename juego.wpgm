@@ -1,4 +1,5 @@
 import wollok.game.*
+import piezas.*
 
 program juego {
 
@@ -8,9 +9,31 @@ program juego {
     game.title("Ajedrez")
     game.boardGround("tablero4.png")
     
+    // agregado de piezas
+    //game.addVisual(torreNegroIzquierdo)
+    //game.addVisual(caballoNegroIzquierdo)
+    game.addVisual(alfilNegroIzquierdo)
+    // game.addVisual(reinaNegro)
+    // game.addVisual(reyNegro)
+    // game.addVisual(alfilNegroDerecho)
+    // game.addVisual(caballoNegroDerecho)
+    // game.addVisual(torreNegroDerecho)
 
+    // game.addVisual(torreBlancoIzquierdo)
+    // game.addVisual(caballoBlancoIzquierdo)
+    // game.addVisual(alfilBlancoIzquierdo)
+    // game.addVisual(reinaBlanco)
+    // game.addVisual(reyBlanco)
+    // game.addVisual(alfilBlancoDerecho)
+    // game.addVisual(caballoBlancoDerecho)
+    // game.addVisual(torreBlancoDerecho)
+
+
+    
   game.start()
 }
+
+
 
 
 
