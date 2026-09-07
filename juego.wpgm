@@ -1,0 +1,19 @@
+import wollok.game.*
+
+program juego {
+
+    game.width(8)
+    game.height(8)
+    game.cellSize(50)
+    game.title("Ajedrez")
+    game.boardGround("tablero.png")
+    
+
+  game.start()
+}
+
+
+
+
+
+
