@@ -21,13 +21,13 @@ object alfilNegroIzquierdo {
 }
 
 object reyNegro {
-    var property position = game.at(4,0)
+    var property position = game.at(3,0)
 
     method image() = "negro-rey50.png" 
 }
 
 object reinaNegro {
-    var property position = game.at(3,0)
+    var property position = game.at(4,0)
 
     method image() = "negro-reina50.png"
 }
@@ -127,13 +127,13 @@ object alfilBlancoIzquierdo {
 }
 
 object reyBlanco {
-    var property position = game.at(4, 7)
+    var property position = game.at(3, 7)
 
     method image() = "blanco-rey50.png" 
 }
 
 object reinaBlanco {
-    var property position = game.at(3, 7)
+    var property position = game.at(4, 7)
 
     method image() = "blanco-reina50.png"
 }
@@ -203,3 +203,6 @@ object peonBlanco7 {
 
     method image() = "blanco-peon50.png" 
 }
+
+
+
