@@ -157,13 +157,4 @@
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed juego.juego on d:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego","timeElapsed":354820,"timestamp":"2026-09-07T03:25:14.675Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mjuego.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34md:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego\u001b[39m\u001b[23m","ok":true,"timeElapsed":318,"timestamp":"2026-09-07T03:25:33.199Z"}
 {"exitCode":"SIGINT","level":"info","message":"👾 Game executed juego.juego on d:\\Escritorio\\UTN\\2026\\Paradigmas de Programacion\\TP-Juego-Wollok\\tp-paradigmas-juego","timeElapsed":36691,"timestamp":"2026-09-07T03:26:09.571Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2026-09-08T20:46:49.583Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":247,"timestamp":"2026-09-08T20:46:49.849Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":145,"timestamp":"2026-09-08T20:46:50.105Z"}
-{"level":"info","message":"⌛ Validating juego.wpgm","timeElapsed":114,"timestamp":"2026-09-08T20:46:50.285Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":118,"timestamp":"2026-09-08T20:46:50.404Z"}
-{"level":"info","message":"⌛ Validating tablero.wlk","timeElapsed":103,"timestamp":"2026-09-08T20:46:50.522Z"}
-{"level":"info","message":"⌛ Validating piezas.wlk","timeElapsed":104,"timestamp":"2026-09-08T20:46:50.627Z"}
-{"level":"info","message":"⌛ Validating partida.wlk","timeElapsed":103,"timestamp":"2026-09-08T20:46:50.731Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":139,"timestamp":"2026-09-08T20:46:52.597Z"}
-{"level":"info","message":"⌛ Validating juego.wpgm","timeElapsed":304,"timestamp":"2026-09-08T20:46:52.905Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mjuego.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\gasto\\Documents\\Algoritmos VScode\\PdP\\Wollok\\tp-paradigmas-juego\u001b[39m\u001b[23m","ok":true,"timeElapsed":420,"timestamp":"2026-09-08T20:45:19.481Z"}
